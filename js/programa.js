@@ -1,0 +1,1 @@
+alert("AVISO: Ya estas conectado a JavaScript.");
